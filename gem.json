@@ -1,0 +1,11 @@
+{
+  "name": "PAPER FACTORY ECO",
+  "description": "Mine $vPAPER in game @papercoinbot",
+  "image": "https://sun9-48.userapi.com/impg/QQaF_JrQil17kllcbkrOQhE0qj2oqCaVoTco2Q/bM7nsA48rmg.jpg?size=2000x2000&quality=96&sign=1c203d07c777118b43b84c0c7b026a45&type=album",
+  "attributes": [
+    {
+      "trait_type": "$vPAPER/second",
+      "value": "0.3"
+    }
+  ]
+}
